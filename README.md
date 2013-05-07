@@ -2,6 +2,12 @@
 
 Welcome to the Designkitchen CSS Styleguide. It's pretty rad. Before reading this, you should have a general understanding for **specificity** and the [**SCSS**][1] syntax.
 
+Compiled and taken from:
+* https://github.com/styleguide/css
+* https://github.com/necolas/idiomatic-css
+* https://github.com/anthonyshort/idiomatic-sass
+* https://github.com/csswizardry/CSS-Guidelines
+
 ## General principles
 
 * All code in any code-base should look like a single person typed it, no
